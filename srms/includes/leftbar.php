@@ -21,7 +21,7 @@
                                         <span class="">Appearance</span>
                                     </li>
                                     <li class="has-children">
-                                        <a href="#"><i class="fa fa-file-text"></i> <span>Courses</span> <i class="fa fa-angle-right arrow"></i></a>
+                                        <a href="#"><i class="fa fa-clipboard"></i> <span>Courses</span> <i class="fa fa-angle-right arrow"></i></a>
                                         <ul class="child-nav">
                                             <li><a href="create-class.php"><i class="fa fa-bars"></i> <span>Create Course</span></a></li>
                                             <li><a href="manage-classes.php"><i class="fa fa fa-server"></i> <span>Manage Course</span></a></li>
@@ -46,7 +46,7 @@
                                         </ul>
                                     </li>
    <li class="has-children">
-                                        <a href="#"><i class="fa fa-users"></i> <span>Student</span> <i class="fa fa-angle-right arrow"></i></a>
+                                        <a href="#"><i class="fa fa-user"></i> <span>Student</span> <i class="fa fa-angle-right arrow"></i></a>
                                         <ul class="child-nav">
                                             <li><a href="add-students.php"><i class="fa fa-bars"></i> <span>Add Students</span></a></li>
                                             <li><a href="manage-students.php"><i class="fa fa fa-server"></i> <span>Manage Students</span></a></li>
@@ -71,21 +71,21 @@
                                         </ul>        </li>
                                        
  <li class="has-children">
-                                        <a href="#"><i class="fa fa-file-text"></i> <span>Submission</span> <i class="fa fa-angle-right arrow"></i></a>
+                                        <a href="#"><i class="fa fa-floppy-o"></i> <span>Submission</span> <i class="fa fa-angle-right arrow"></i></a>
                                         <ul class="child-nav">
                                             <li><a href="student_course.php"><i class="fa fa-bars"></i> <span>view submission</span></a></li>
                                             
                                            
                                         </ul>        </li> 
   <li class="has-children">
-                                        <a href="#"><i class="fa fa-file-text"></i> <span>Subject content</span> <i class="fa fa-angle-right arrow"></i></a>
+                                        <a href="#"><i class="fa fa-copy"></i> <span>Subject content</span> <i class="fa fa-angle-right arrow"></i></a>
                                         <ul class="child-nav">
                                             <li><a href="course_view.php"><i class="fa fa-bars"></i> <span>manage subject content</span></a></li>
                                             
                                            
                                         </ul>        </li>                                  
 <li class="has-children">
-                                        <a href="#"><i class="fa fa-bell"></i> <span>Library</span> <i class="fa fa-angle-right arrow"></i></a>
+                                        <a href="#"><i class="fa fa-leanpub"></i> <span>Library</span> <i class="fa fa-angle-right arrow"></i></a>
                                         <ul class="child-nav">
                                             <li><a href="add-book.php"><i class="fa fa-bars"></i> <span>Add Books</span></a></li>
                                             <li><a href="manage-books.php"><i class="fa fa fa-server"></i> <span>Manage Books</span></a></li>
